@@ -1,5 +1,5 @@
-# Retro Tennis 3
-### _A Fancy Pong Clone For Wii Homebrew_
+# Retro Tennis 3D
+### _A 3D Pong Clone For Wii Homebrew_
 ![Languages](https://badgen.net/badge/language/C/blue) ![Framework](https://badgen.net/badge/framework/DevKitPro/blue) ![Library](https://badgen.net/badge/library/GRRLIB/black) ![Platform](https://badgen.net/badge/platform/Nintendo%20Wii/white)
 
 ## Building
